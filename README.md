@@ -1,1 +1,2 @@
-# 2025-01-28-learning-about-version-control
+# learning-about-version-control
+Author: Ayush Joshi
